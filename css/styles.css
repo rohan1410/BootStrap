@@ -1,0 +1,25 @@
+.indi{
+    font-family: 'Indie Flower', cursive;
+}
+.po{
+    font-family: 'Poiret One', cursive;
+}
+hr {
+    border: none;
+    height: 4px;
+    /* Set the hr color */
+    color: #E9D0D0; /* old IE */
+    background-color: #E3C6C6; /* Modern Browsers */
+}
+.text-muted {
+    color:#BCBBBB;
+}
+.text-thin{
+    font-weight:100;
+}
+.title-super{
+    font-size: 60px;
+}
+.title-logo{
+    margin-top: 20px;
+}
